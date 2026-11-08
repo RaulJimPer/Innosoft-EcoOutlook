@@ -1,0 +1,63 @@
+:root {
+  /* Microsoft / Outlook inspired palette */
+  --primary: #0078d4;
+  --primary-hover: #106ebe;
+  --primary-active: #005a9e;
+  --primary-light: #eff6fc;
+  --primary-border: #c7e0f4;
+
+  /* Surfaces & Canvas */
+  --bg-app: #f3f2f1;
+  --bg-surface: #ffffff;
+  --bg-subtle: #f8f9fa;
+  --bg-hover: #f3f2f1;
+  --bg-selected: #edebe9;
+  --bg-selected-primary: #e1dfdd;
+
+  /* Text & Inks */
+  --text-primary: #201f1e;
+  --text-secondary: #605e5c;
+  --text-muted: #8a8886;
+  --text-disabled: #a19f9d;
+  --text-white: #ffffff;
+
+  /* Borders & Dividers */
+  --border-light: #edebe9;
+  --border-default: #e1dfdd;
+  --border-strong: #8a8886;
+
+  /* Semantic Feedback Colors */
+  --green: #107c41;
+  --green-bg: #dff6dd;
+  --green-border: #107c41;
+
+  --amber: #d83b01;
+  --amber-bg: #fed9cc;
+  --amber-border: #ea4300;
+
+  --red: #a80000;
+  --red-bg: #fde7e9;
+  --red-border: #d13438;
+
+  --navy: #002050;
+  --navy-surface: #00183b;
+
+  /* Typography */
+  --font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  /* Elevations */
+  --shadow-sm: 0 1.6px 3.6px 0 rgba(0, 0, 0, 0.132), 0 0.3px 0.9px 0 rgba(0, 0, 0, 0.108);
+  --shadow-md: 0 3.2px 7.2px 0 rgba(0, 0, 0, 0.132), 0 0.6px 1.8px 0 rgba(0, 0, 0, 0.108);
+  --shadow-lg: 0 6.4px 14.4px 0 rgba(0, 0, 0, 0.132), 0 1.2px 3.6px 0 rgba(0, 0, 0, 0.108);
+  --shadow-modal: 0 25.6px 57.6px 0 rgba(0, 0, 0, 0.22), 0 4.8px 14.4px 0 rgba(0, 0, 0, 0.18);
+
+  /* Dimensions */
+  --topbar-height: 52px;
+  --sidebar-width: 230px;
+  --right-panel-width: 280px;
+  --border-radius-sm: 3px;
+  --border-radius-md: 6px;
+  --border-radius-lg: 10px;
+}
+

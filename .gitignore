@@ -1,0 +1,69 @@
+# Dependencias
+node_modules/
+.pnp
+.pnp.js
+
+# Salida de compilación y producción
+dist/
+dist-ssr/
+build/
+*.local
+
+# Documentación interna y paquete de especificación
+/EcoOutlook-Especificacion-v1.0/
+/EcoOutlook-Especification-v1.0/
+
+# Variables de entorno, secretos y claves sensibles
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+*.env
+*.pem
+*.key
+*.cert
+*.pfx
+*.pkcs12
+*.secret
+*.secrets
+credentials.json
+token.json
+id_rsa
+id_ed25519
+
+# Registros y logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Cobertura y cachés de testing
+coverage/
+.nyc_output/
+.vitest/
+
+# Cachés del sistema y editores
+.cache/
+tmp/
+temp/
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs y configuración de editores
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
